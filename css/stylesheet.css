@@ -1,0 +1,31 @@
+ul{
+    list-style-type: none;
+}
+
+
+.contentContainer{
+    display:flex;
+    text-align: center;
+    width:100%;
+    height:auto;
+}
+
+.messageContainer{
+   
+    width:50%;
+    height:auto;
+
+}
+
+.formContainer{
+    width:50%;
+
+    height:auto;
+}
+
+#messageDisplay{
+    width:412px;
+    height:575px;
+    margin-left: auto;
+    margin-right: auto;
+}
